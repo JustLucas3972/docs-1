@@ -1,0 +1,5 @@
+site_name: Serversify
+site_url: https://help.serversify.net
+
+theme:
+  name: material
