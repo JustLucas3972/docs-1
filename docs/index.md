@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to Serversify!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Free Game / Web Server Hosting!
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+You can proceed to view any docs we have already by viewing the sidebar and clicking what you need to find. You can also contribute by going [here](https://github.com/serversify/docs) and making a PR, you only need to edit what is in the DOCS folder.
