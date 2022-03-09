@@ -1,0 +1,39 @@
+name: Bug Report
+description: File a bug report
+title: "[Idea]: "
+labels: ["t: i", "p: l", "e: null"]
+assignees:
+  - tringlle
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: idea
+    attributes:
+      label: Whats the Idea??
+      description: What is the idea?
+      placeholder: A super cool idea that i''m not willing to share
+      value: "Ideas"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: CHECKBOXES
+      options:
+        - label: This has not been suggested before
+          required: true
+        - label: This does not contain security issues
+          required: true
+        - label: This does not contain bugs that you can abuse
+          required: true
