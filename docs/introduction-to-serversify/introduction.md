@@ -150,4 +150,4 @@ This is the  **amount of CPU that your server uses**.
 
 A  **computer's memory**  (**RAM**) is one of the most  **important components**  that  **determine your system's performance**.  **RAM**  provides applications with a  **place to store and retrieve data for short periods of time**.
 
-© 2022 Serversify (Thanks to FreePik for photos)
+© 2022 Serversify (Thanks to FreeImages.com for photos)
