@@ -1,8 +1,17 @@
 site_name: Serversify
 site_url: https://help.serversify.net
-
+repo_url: https://github.com/Serversify/docs
+repo_name: Serversify/docs
 theme:
   name: material
+  
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - toc.integrate
+    - 
   
   static_templates:
     - 404.html
