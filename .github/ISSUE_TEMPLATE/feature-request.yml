@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Feature Request
+description: Make a Suggestion
 title: "[Idea]: "
 labels: ["t: i", "p: l", "e: null"]
 assignees:
