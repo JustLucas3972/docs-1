@@ -1,0 +1,33 @@
+name: Feature Request
+description: Make a Suggestion
+title: "[Idea]: "
+labels: ["t: i", "p: l", "e: null"]
+assignees:
+  - tringlle
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Whats the Idea??
+      description: What is the idea?
+      placeholder: A super cool idea that i''m not willing to share
+      value: "Ideas"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why do we need this again?
+      placeholder: "Something goes here ig"
+      value: "hah no"
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: CHECKBOXES
+      options:
+        - label: This has not been suggested before
+          required: true
+        - label: This does not contain security issues
+          required: true
+        - label: This does not contain bugs that you can abuse
+          required: true
