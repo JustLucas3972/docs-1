@@ -7,3 +7,9 @@ theme:
   static_templates:
     - 404.html
     - CNAME
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
