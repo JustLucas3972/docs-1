@@ -3,3 +3,7 @@ site_url: https://help.serversify.net
 
 theme:
   name: material
+  
+  static_templates:
+    - 404.html
+    - CNAME
