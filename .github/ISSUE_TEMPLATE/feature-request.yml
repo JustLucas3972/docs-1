@@ -5,10 +5,6 @@ labels: ["t: i", "p: l", "e: null"]
 assignees:
   - tringlle
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: idea
     attributes:
@@ -18,12 +14,12 @@ body:
       value: "Ideas"
     validations:
       required: true
-   - type: textarea
-     id: why
-     attributes:
-       label: Why do we need this again?
-       placeholder: "Something goes here ig"
-       value: "hah no"
+  - type: textarea
+    id: why
+    attributes:
+      label: Why do we need this again?
+      placeholder: "Something goes here ig"
+      value: "hah no"
   - type: checkboxes
     id: terms
     attributes:
